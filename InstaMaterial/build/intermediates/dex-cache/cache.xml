@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\HackNTU\RPG_IN_City\InstaMaterial\app\build\intermediates\exploded-aar\com.android.support\support-v13\22.2.1\jars\libs\internal_impl-22.2.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="6fc4c7067459e8d69e1bbcb3a8973cdd84d5d87b">
+        <dex dex="D:\HackNTU\RPG_IN_City\InstaMaterial\app\build\intermediates\pre-dexed\debug\internal_impl-22.2.1-39c90e4a489b5b839c1083cabdd771679edab599.jar" />
+    </item>
+    <item
+        jar="D:\HackNTU\RPG_IN_City\InstaMaterial\app\build\intermediates\exploded-aar\com.android.support\design\22.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1821601ddbec5ff125653097812823388700af74">
+        <dex dex="D:\HackNTU\RPG_IN_City\InstaMaterial\app\build\intermediates\pre-dexed\debug\classes-6ee3205b68aba9004bd45bf8f96ffc877015f020.jar" />
+    </item>
+    <item
+        jar="D:\HackNTU\RPG_IN_City\InstaMaterial\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\jars\libs\internal_impl-22.2.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c471eaaba13ff64f6e0383d1c30a9cdc9a97efeb">
+        <dex dex="D:\HackNTU\RPG_IN_City\InstaMaterial\app\build\intermediates\pre-dexed\debug\internal_impl-22.2.1-22ffaa014a72fbff143007dee5ac051f937e8853.jar" />
+    </item>
+    <item
+        jar="C:\Users\Elaine\.gradle\caches\modules-2\files-2.1\com.jakewharton.hugo\hugo-annotations\1.2.1\b01150795c5cdca1eb7e501bf00f105ff0e31501\hugo-annotations-1.2.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="b01150795c5cdca1eb7e501bf00f105ff0e31501">
+        <dex dex="D:\HackNTU\RPG_IN_City\InstaMaterial\app\build\intermediates\pre-dexed\debug\hugo-annotations-1.2.1-ae1ff7e828f3337c9b1471110d2a310b975148e3.jar" />
+    </item>
+    <item
+        jar="C:\Users\Elaine\.gradle\caches\modules-2\files-2.1\com.jakewharton.timber\timber\2.5.1\3baf6307dcdc2e35db9c2c616b16faa5fba4917c\timber-2.5.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="3baf6307dcdc2e35db9c2c616b16faa5fba4917c">
+        <dex dex="D:\HackNTU\RPG_IN_City\InstaMaterial\app\build\intermediates\pre-dexed\debug\timber-2.5.1-9685386a9745c7b5161254c12c2aaf5843b124fe.jar" />
+    </item>
+    <item
+        jar="D:\HackNTU\RPG_IN_City\InstaMaterial\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\22.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e1fa5e1123997a55e3ed65b44892993ff4b58cfe">
+        <dex dex="D:\HackNTU\RPG_IN_City\InstaMaterial\app\build\intermediates\pre-dexed\debug\classes-2d463647e6c63682104820c445efc703c90b7718.jar" />
+    </item>
+    <item
+        jar="D:\HackNTU\RPG_IN_City\InstaMaterial\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\22.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="3abb4b88f5a8a0584a9b01d3170d7165f12f8588">
+        <dex dex="D:\HackNTU\RPG_IN_City\InstaMaterial\app\build\intermediates\pre-dexed\debug\classes-adc221cc984d4dbffee4d8dbd5e586865f46d76a.jar" />
+    </item>
+    <item
+        jar="C:\Users\Elaine\.gradle\caches\modules-2\files-2.1\com.facebook.rebound\rebound\0.3.6\d6e00af70407742e97f3f378f9b0382be8130ab7\rebound-0.3.6.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="d6e00af70407742e97f3f378f9b0382be8130ab7">
+        <dex dex="D:\HackNTU\RPG_IN_City\InstaMaterial\app\build\intermediates\pre-dexed\debug\rebound-0.3.6-619d1447c07abc188e9e925e1e85dfebddca0517.jar" />
+    </item>
+    <item
+        jar="D:\HackNTU\RPG_IN_City\InstaMaterial\app\build\intermediates\exploded-aar\com.commonsware.cwac\camera\0.6.12\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="733494514a30e5e5c60da15444b7d720590679c4">
+        <dex dex="D:\HackNTU\RPG_IN_City\InstaMaterial\app\build\intermediates\pre-dexed\debug\classes-c82f545d7c3d721cb4aee3028594ba8f7c523d20.jar" />
+    </item>
+    <item
+        jar="C:\Users\Elaine\.gradle\caches\modules-2\files-2.1\com.jakewharton\butterknife\6.1.0\63735f48b82bcd24cdd33821342428252eb1ca5a\butterknife-6.1.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="63735f48b82bcd24cdd33821342428252eb1ca5a">
+        <dex dex="D:\HackNTU\RPG_IN_City\InstaMaterial\app\build\intermediates\pre-dexed\debug\butterknife-6.1.0-9287d943a69205766d8032d3820c5c2c3b83fc16.jar" />
+    </item>
+    <item
+        jar="D:\HackNTU\RPG_IN_City\InstaMaterial\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4486e953d1f35f8ccab098b1dd67146366d5f731">
+        <dex dex="D:\HackNTU\RPG_IN_City\InstaMaterial\app\build\intermediates\pre-dexed\debug\classes-85a043f1f5508aef168475deac42849b9d55f5d1.jar" />
+    </item>
+    <item
+        jar="D:\Program Files (x86)\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.2.1\support-annotations-22.2.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="61a0ff5c29295ec56d7e0bd3d25d95dbf71b4b2b">
+        <dex dex="D:\HackNTU\RPG_IN_City\InstaMaterial\app\build\intermediates\pre-dexed\debug\support-annotations-22.2.1-4be45a79fa0ea21b3e2d4f294650b8815d89d5b9.jar" />
+    </item>
+    <item
+        jar="D:\HackNTU\RPG_IN_City\InstaMaterial\app\build\intermediates\exploded-aar\com.jakewharton.hugo\hugo-runtime\1.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="2bac9385ea008561a30419c09e9230a8681b3e09">
+        <dex dex="D:\HackNTU\RPG_IN_City\InstaMaterial\app\build\intermediates\pre-dexed\debug\classes-cc18f5ee42cde9d9671b38b06fb99cfe9056aef4.jar" />
+    </item>
+    <item
+        jar="D:\HackNTU\RPG_IN_City\InstaMaterial\app\build\intermediates\exploded-aar\com.android.support\palette-v7\22.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="d3aba1c188fea5ee83ebbcb458be29d1cc0ef483">
+        <dex dex="D:\HackNTU\RPG_IN_City\InstaMaterial\app\build\intermediates\pre-dexed\debug\classes-1786b8aece16ab65e85ed2d59150cd813a835a8f.jar" />
+    </item>
+    <item
+        jar="D:\HackNTU\RPG_IN_City\InstaMaterial\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="f8efd0096475e0daf054267b61544e10dc776503">
+        <dex dex="D:\HackNTU\RPG_IN_City\InstaMaterial\app\build\intermediates\pre-dexed\debug\classes-af57382e8ebfba8f8d70f453ff9d3824a71809d4.jar" />
+    </item>
+    <item
+        jar="D:\HackNTU\RPG_IN_City\InstaMaterial\app\build\intermediates\exploded-aar\com.android.support\support-v13\22.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c4caf832116bca1f2e140bf1fb600e2edd190837">
+        <dex dex="D:\HackNTU\RPG_IN_City\InstaMaterial\app\build\intermediates\pre-dexed\debug\classes-7f535404deb74f7ed20046cce82802624e6a41ad.jar" />
+    </item>
+    <item
+        jar="C:\Users\Elaine\.gradle\caches\modules-2\files-2.1\org.aspectj\aspectjrt\1.8.5\39a8ff2d1f79267907f5573c090b342b040b9682\aspectjrt-1.8.5.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="39a8ff2d1f79267907f5573c090b342b040b9682">
+        <dex dex="D:\HackNTU\RPG_IN_City\InstaMaterial\app\build\intermediates\pre-dexed\debug\aspectjrt-1.8.5-402761b113042013bee1a21792fb595b5d1b8a4a.jar" />
+    </item>
+    <item
+        jar="C:\Users\Elaine\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.0\7ff0e000d1e27e356567f56c92af3b8ab912636f\picasso-2.5.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="7ff0e000d1e27e356567f56c92af3b8ab912636f">
+        <dex dex="D:\HackNTU\RPG_IN_City\InstaMaterial\app\build\intermediates\pre-dexed\debug\picasso-2.5.0-561a6f64b3a9ef4afa191a9abd5e9f47a71a2224.jar" />
+    </item>
+
+</items>
