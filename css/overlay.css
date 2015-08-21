@@ -1,0 +1,155 @@
+	.view {
+		   width: 95%;
+		   height: 450px;
+		   margin: 10px;
+		   
+		   overflow: hidden; /*超出框外的全部隱藏*/
+		   position: relative;
+		   text-align: center;
+		   cursor: default;
+		   background: #fff;
+		  }
+		  
+	.view .mask {
+				   width: 100%;
+				   height: 450px;
+				   max-width: 100%;
+				   max-height: 100%;
+				   position: absolute;
+				   overflow: hidden;
+				   top: 0;
+				   left: 0;
+				}
+
+	.view img {
+	
+	  display: block;
+	  max-width: 100%;
+	  height: 100%; 
+
+	}
+
+	.view h2 {
+	   text-transform: uppercase; /*大寫*/
+	   color: #fff;
+	   text-align: center;
+	   position: relative;
+	   font-size: 19px;
+	   padding: 40px;
+	   background: rgba(0, 0, 0, 0.8);
+	   background: black \9;
+	   margin: 20px 0 0 0;
+	   top: 50px;
+	}
+
+	.view-first img {
+	   -webkit-transition: all 0.3s linear;
+	   -moz-transition: all 0.3s linear;
+	   -o-transition: all 0.3s linear;
+	   -ms-transition: all 0.3s linear;
+	   transition: all 0.3s linear;
+	}
+	.view-first .mask { /*黃色的殼*/
+	   -ms-filter: "progid: DXImageTransform.Microsoft.Alpha(Opacity=0)";
+	   filter: alpha(opacity=0);
+	   opacity: 0; /*透明度為0，設定之後transition後的值，之後再把透明度改為1*/
+	   background-color: rgba(255,180,70, 0.7);
+	   -webkit-transition: all 0.4s ease-in-out;
+	   -moz-transition: all 0.4s ease-in-out;
+	   -o-transition: all 0.4s ease-in-out;
+	   -ms-transition: all 0.4s ease-in-out;
+	   transition: all 0.4s ease-in-out;
+	}
+	.view-first h2 {
+	   -webkit-transform: translateY(-100px);
+	   -moz-transform: translateY(-100px);
+	   -o-transform: translateY(-100px);
+	   -ms-transform: translateY(-100px);
+	   transform: translateY(-100px);
+	   -ms-filter: "progid: DXImageTransform.Microsoft.Alpha(Opacity=0)";
+	   filter: alpha(opacity=0);
+	   opacity: 0;
+	   -webkit-transition: all 0.2s ease-in-out;
+	   -moz-transition: all 0.2s ease-in-out;
+	   -o-transition: all 0.2s ease-in-out;
+	   -ms-transition: all 0.2s ease-in-out;
+	   transition: all 0.2s ease-in-out;
+	}
+	
+	.view-first:hover img { /*讓照片變大*/
+	   -webkit-transform: scale(1.2,1.2);
+	   -moz-transform: scale(1.2,1.2);
+	   -o-transform: scale(1.2,1.2);
+	   -ms-transform: scale(1.2,1.2);
+	   transform: scale(1.2,1.2);
+	}
+	
+	.view-first:hover .mask {
+	   -ms-filter: "progid: DXImageTransform.Microsoft.Alpha(Opacity=100)";
+	   filter: alpha(opacity=100);
+	   opacity: 1;
+	}
+	.view-first:hover h2 {
+	   -ms-filter: "progid: DXImageTransform.Microsoft.Alpha(Opacity=100)";
+	   filter: alpha(opacity=100);
+	   opacity: 1;
+	   -webkit-transform: translateY(0px);
+	   -moz-transform: translateY(0px);
+	   -o-transform: translateY(0px);
+	   -ms-transform: translateY(0px);
+	   transform: translateY(0px);
+	}
+
+	.portfolioButton{ /*包在mask裡面，hover時會跟mask一起出現*/
+		display: inline-block;
+		border-radius: 10px;
+		-moz-border-radius: 10px; /* Firefox */
+		-webkit-border-radius: 10px; /* Safari and Chrome */
+		behavior: url(ie-css3.htc); /* 使用ie-css3 */
+		border: 2px solid #ffffff;
+		font-family: Comic Sans MS,Arial;
+		font-size: 16px;
+		width: 200px;
+		height: 60px;
+		text-indent: 0;
+		text-align: center;
+		text-decoration: none;
+		color: #ffffff;
+		line-height: 60px;
+		-webkit-transition: background-color 0.4s ease;
+		-moz-transition: background-color 0.4s ease;
+		-o-transition: background-color 0.4s ease;
+		transition: background-color 0.4s ease;
+		position: relative;
+		top: 100px;
+		background: white \9;
+		*color: black;
+	}
+	
+	.portfolioButton:hover {
+		background-color: #FFFFFF;
+		color: rgba(255,180,70, 0.7);
+		color: black \9;
+		text-decoration: none;
+	}
+	
+	@media screen and (min-width: 800px) and (max-width: 992px) { 
+		.view {
+			   width: 92%;
+			   height: 200px;
+			  }
+		
+	}
+	
+	@media screen and (min-width: 768px) and (max-width: 800px) { 
+		.view {
+			   width: 92%;
+			   height: 180px;
+			  }
+			  
+		.portfolioButton { 
+							top: 40px;
+						 }
+	}
+	
+	

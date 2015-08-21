@@ -1,0 +1,64 @@
+body {
+			font-family: Microsoft YaHei,Microsoft JhengHei;
+		 }
+		 
+	.navbar-wrapper {
+      position: absolute;
+      top: 0;
+      left: 0;
+      right: 0;
+      z-index: 10;
+      margin-top: 20px;
+      margin-bottom: -90px; /* Negative margin to pull up carousel. 90px is roughly margins and height of navbar. */
+	  
+    }
+	
+	.navbar-header {
+	border: 0;
+	-webkit-box-shadow: 0 2px 10px rgba(0,0,0,.25);
+	 -moz-box-shadow: 0 2px 10px rgba(0,0,0,.25);
+		box-shadow: 0 2px 10px rgba(0,0,0,.25);
+	}
+	
+	.carousel {
+      margin-bottom: 20px;
+    }
+	
+    .carousel-control {
+      margin-top: 0;
+      font-size: 120px;
+      text-shadow: 0 1px 1px rgba(0,0,0,.4);
+	  
+      background-color: transparent;
+      border: 0;
+      z-index: 10;
+    }
+
+    .carousel .item {
+	
+      height: 500px;
+    }
+	
+    .carousel img {
+      position: absolute;
+      top: 0;
+      left: 0;
+      min-width: 100%;
+      margin-top: -20%;
+    }
+	
+	.logo {
+			position: absolute;
+			z-index: 9;
+			top: 400px;
+			left: 20px;
+			width: 400px;
+		  }
+	
+	footer {
+				background: #708090;
+				color: white;
+				padding: 10px;
+				text-align: center;
+				margin-top: 20px;
+		   }
