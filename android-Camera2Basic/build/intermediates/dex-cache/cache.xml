@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\Program Files (x86)\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.0.0\support-annotations-23.0.0.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="990e7f98a7bad86a40b1f0bcfeb039023afd0839">
+        <dex dex="D:\HackNTU\RPG_IN_City\android-Camera2Basic\Application\build\intermediates\pre-dexed\debug\support-annotations-23.0.0-bd57726db721957d944f5c0e172f0b84c5d29235.jar" />
+    </item>
+    <item
+        jar="D:\HackNTU\RPG_IN_City\android-Camera2Basic\Application\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\jars\libs\internal_impl-23.0.0.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="8bd336eeae661e8311330284897ee07f8ebaa297">
+        <dex dex="D:\HackNTU\RPG_IN_City\android-Camera2Basic\Application\build\intermediates\pre-dexed\debug\internal_impl-23.0.0-2616fb0afd99526c1da9c4c58576a8bf8fc77b1e.jar" />
+    </item>
+    <item
+        jar="D:\HackNTU\RPG_IN_City\android-Camera2Basic\Application\build\intermediates\exploded-aar\com.android.support\support-v13\23.0.0\jars\libs\internal_impl-23.0.0.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="5d4bccb885c8a89d066ecb6c4addb553a99a79a2">
+        <dex dex="D:\HackNTU\RPG_IN_City\android-Camera2Basic\Application\build\intermediates\pre-dexed\debug\internal_impl-23.0.0-7ed023e8212d4ae387c46bac91fe2df14ae869f2.jar" />
+    </item>
+    <item
+        jar="D:\HackNTU\RPG_IN_City\android-Camera2Basic\Application\build\intermediates\exploded-aar\com.android.support\cardview-v7\23.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="1ccbc26be2c465c622a48310e8092241b01abe80">
+        <dex dex="D:\HackNTU\RPG_IN_City\android-Camera2Basic\Application\build\intermediates\pre-dexed\debug\classes-d0ed7ba49f4209aba325afc2bf6e66bacc7aa9c4.jar" />
+    </item>
+    <item
+        jar="D:\HackNTU\RPG_IN_City\android-Camera2Basic\Application\build\intermediates\exploded-aar\com.android.support\support-v13\23.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="bb0ac3f3ee2d71854501cc28e52cc84a20209b41">
+        <dex dex="D:\HackNTU\RPG_IN_City\android-Camera2Basic\Application\build\intermediates\pre-dexed\debug\classes-fbee7a483a2801443767afd68bc943cf6646cc92.jar" />
+    </item>
+    <item
+        jar="D:\HackNTU\RPG_IN_City\android-Camera2Basic\Application\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="8413c27b45b7fe61dca4a98159f65e2cee215f5a">
+        <dex dex="D:\HackNTU\RPG_IN_City\android-Camera2Basic\Application\build\intermediates\pre-dexed\debug\classes-7a8011e6281ada7b654fc69eac061b7a29724ffe.jar" />
+    </item>
+
+</items>
